@@ -1,0 +1,10 @@
+.nav-item a:hover{
+    background-color: rgb(99, 70, 70);
+    
+}
+.carousel-caption{
+position: relative;
+margin-top: 400px;
+margin-bottom: 200px;
+
+}
